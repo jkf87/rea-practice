@@ -1,0 +1,7 @@
+{
+  "name": "sample-notes-app",
+  "version": "1.0.0",
+  "description": "REA 실습용으로 직접 만든 작은 Electron 메모 앱 (분석 대상 예제)",
+  "main": "main.js",
+  "license": "MIT"
+}
